@@ -1,4 +1,4 @@
-This project demonstrates an E2E automation framework for a complex AI-based platform"
+This project demonstrates an E2E automation framework for a complex AI-based platform.
 
 The Mission
 To automate a complete workflow including authentication, dynamic token capture, and complex UI interactions within a modal environment.
